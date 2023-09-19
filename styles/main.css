@@ -19,12 +19,12 @@ a:focus, a:hover{
 }
 header h1{
     font-size: 175%;
-    color: maroon;
+    color: rgb(175, 62, 62);
     text-indent: 30px;
 }
 header h2{
     font-size: 130%;
-    color: maroon;
+    color: rgb(175, 62, 62);
     text-indent: 30px;
 }
 header img{
