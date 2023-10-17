@@ -24,11 +24,8 @@
 article h1{
     padding:1em;
 }
-
-hr.dotted{
-    width: 25%;
-    border-top: dotted;
-    padding: 1em, 0, .5em;
+aside{
+    position: fixed;
 }
 aside ol{
     list-style-type: upper-roman;
