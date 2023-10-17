@@ -51,7 +51,7 @@ article h1{
     padding-top: 1em, 0;
     color: blue;
     column-span: all;
-    border-top: 3px solid blue;
+    border-top: 2px solid blue;
     margin: 1em;
 }
 article h2{
@@ -78,6 +78,6 @@ aside{
 }
 footer{
     clear: both;
-    border-top: 3px solid blue;
+    border-top: 2px solid blue;
     text-align: center;
 }
