@@ -21,6 +21,9 @@
 #nav_menu ul li a.currentitem{
     color: yellow;
 }
+article h1{
+    padding:1em;
+}
 
 hr.dotted{
     width: 25%;
