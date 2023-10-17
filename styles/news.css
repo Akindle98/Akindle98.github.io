@@ -52,6 +52,7 @@ article h1{
 article h2{
     color: blue;
     padding: 1em;
+    text-align: left;
 }
 article img{
     float: left;
