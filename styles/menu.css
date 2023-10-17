@@ -3,6 +3,7 @@
 }
 #nav_menu li{
     float: left;
+    padding: 2em;
 }
 #nav_menu li a{
     text-align: center;
