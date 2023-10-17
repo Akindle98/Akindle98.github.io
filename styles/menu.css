@@ -18,9 +18,10 @@
 #nav_menu ul li a.lastitem{
     border-right: none;
 }
-#nav_menu ul li a.current{
+#nav_menu ul li a.active{
     color: yellow;
 }
+
 hr.dotted{
     width: 25%;
     border-top: dotted;
