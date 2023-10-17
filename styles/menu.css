@@ -25,9 +25,6 @@ article h1{
     text-align: left;
     padding:1em;
 }
-aside{
-    position: fixed;
-}
 aside ol{
     list-style-type: upper-roman;
 }
