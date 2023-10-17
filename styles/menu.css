@@ -1,7 +1,7 @@
 #nav_menu ul{
     list-style: none;
     padding: 1em 0;
-    text-indent: 2em;
+    margin-left: 2em;
 }
 #nav_menu li{
     float: left;
