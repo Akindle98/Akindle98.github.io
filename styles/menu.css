@@ -21,10 +21,10 @@
 #nav_menu ul li a.currentitem{
     color: yellow;
 }
-article h1{
+article{
     text-align: left;
     margin: auto;
-    padding: 4em,0,1em;
+    padding: 1em,0,1em;
 }
 aside ol{
     list-style-type: upper-roman;
