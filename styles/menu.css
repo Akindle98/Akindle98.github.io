@@ -23,8 +23,8 @@
 }
 article{
     text-align: left;
-    margin: auto;
-    padding: 1em,0,1em;
+    margin: 15px auto;
+    padding: 15px auto;
 }
 aside ol{
     list-style-type: upper-roman;
