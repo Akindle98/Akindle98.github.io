@@ -21,6 +21,11 @@
 #nav_menu ul li a.current{
     color: yellow;
 }
+hr.dotted{
+    width: 25%;
+    border-top: dotted;
+    padding: 1em, 0, .5em;
+}
 aside ol{
     list-style-type: upper-roman;
 }
