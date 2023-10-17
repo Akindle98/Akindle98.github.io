@@ -29,9 +29,10 @@ article{
 }
 aside ol{
     list-style-type: upper-roman;
-    padding-left: ;
+    padding-left: 4em;
 }
 aside ul{
     list-style-type: square;
+    padding-left: 3.25em ;
 }
 
