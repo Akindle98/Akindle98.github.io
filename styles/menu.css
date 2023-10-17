@@ -22,7 +22,8 @@
     color: yellow;
 }
 article h1{
-    padding:4em,0,1em;
+    text-align: left;
+    padding:1em;
 }
 aside{
     position: fixed;
