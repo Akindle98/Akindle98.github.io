@@ -51,7 +51,7 @@ article h1{
     color: blue;
     column-span: all;
     border-top: 3px solid blue;
-    margin-top: 2em;
+    margin: 2em;
 }
 article h2{
     color: blue;
