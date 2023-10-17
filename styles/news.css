@@ -47,6 +47,7 @@ article{
     margin-left: 2em;
 }
 article h1{
+    padding: 15px auto;
     color: blue;
     column-span: all;
     border-top: 3px solid blue;
