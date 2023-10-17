@@ -5,6 +5,7 @@ html{
     list-style: none;
     margin-left: 2em;
     padding: 1em 0;
+    text-indent: 2em;
 }
 #nav_menu li{
     float: left;
