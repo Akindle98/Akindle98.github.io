@@ -24,7 +24,7 @@
 article h1{
     text-align: left;
     margin: auto;
-    padding: 1em;
+    padding: 4em,0,1em;
 }
 aside ol{
     list-style-type: upper-roman;
