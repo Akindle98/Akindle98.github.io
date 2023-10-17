@@ -21,9 +21,6 @@
 #nav_menu ul li a.currentitem{
     color: yellow;
 }
-article{
-    padding-bottom: 1em;
-}
 article h1{
     text-align: left;
     padding:4em,0,1em;
