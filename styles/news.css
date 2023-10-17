@@ -79,4 +79,6 @@ footer{
     clear: both;
     border-top: 3px solid blue;
     text-align: center;
+    column-count: 2;
+    column-rule: 1px solid black;
 }
