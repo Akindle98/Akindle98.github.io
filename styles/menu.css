@@ -31,11 +31,10 @@ body{
 }
 article{
     text-align: left;
-    padding-top: 15px auto;
 }
 article h1{
     margin-top: 3em;
-    padding-top: 1;
+    padding-top: 1em;
 }
 aside ol{
     list-style-type: upper-roman;
