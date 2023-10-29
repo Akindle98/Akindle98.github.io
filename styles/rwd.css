@@ -40,7 +40,7 @@ html,body{
     justify-content: center;
     align-items: center;
 }
-#menu.toggle{
+#menu-toggle{
     display:none;
 }
 .menu-button,
