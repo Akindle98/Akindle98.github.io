@@ -93,8 +93,9 @@ article p{
 article img{
     margin: auto;
     display: block;
+    height:85%;
     width: 100%;
-    max-width:760px;
+    max-width:1088;
 }
 footer{
     border-top: 2px solid #f46b45;
