@@ -93,6 +93,7 @@ article p{
 article img{
     margin: auto;
     display: block;
+    height: 85%;
     width: 100%;
     max-width:1280px;
 }
