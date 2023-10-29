@@ -81,3 +81,18 @@ section a{
 .menu a:hover, a.current{
     text-decoration: underline;
 }
+article{
+    padding:0,1em;
+}
+article h2{
+    font-size: 1.25;
+}
+article p{
+    font-size: 1em;
+}
+article img{
+    margin: auto;
+    display: block;
+    width: 100%;
+    max-width
+}
