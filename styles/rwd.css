@@ -37,6 +37,35 @@ html,body{
     width: 30px;
     cursor: pointer;
     flex-direction: column;
-    
-    
+    justify-content: center;
+    align-items: center;
+}
+#menu.toggle{
+    display:none;
+}
+.menu-button,
+.menu-button::before,
+.menu-button::after{
+    display:block;
+    background-color: #fff;
+    position:absolute;
+    height: 4px;
+    width: 30px;
+    transition: transform 400ms cubic-bezier(.23,1,0.32,1);
+    border-radius: 2px;
+}
+.menu-botton::before{
+    content:"";
+    margin-top: -8px;
+}
+.menu-button::after{
+    content:"";
+    margin-top:8px;
+}
+#menu-toggle:checked+.menu-button-container.menu-botton::before{
+    margin-top: 0px;
+    transform: rotate(405deg);
+}
+#menu-toggle:checked+.menu-bottom-container.menu-button{
+    background: rgba(255,255,255,0);
 }
