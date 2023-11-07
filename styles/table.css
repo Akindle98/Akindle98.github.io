@@ -45,7 +45,7 @@ html, body {
         background-color: lightgreen;
         border-top: 2px solid orangered;
     }
-    table.third thead th{
+    table.third thead tr th{
         background-color: lightgreen;
         border-top: 2px solid orangered;
     }
@@ -61,3 +61,14 @@ html, body {
     td.right{
         vertical-align: top;
     }
+    @media only screen and (max-width: 425px) {
+        th, td {
+            display: block;
+        }
+        thead, td.number {
+            display: none;
+            padding: 0;
+        }    
+    }
+
+    
