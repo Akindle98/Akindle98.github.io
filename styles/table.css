@@ -35,4 +35,14 @@ html, body {
         border-bottom: 2px solid purple;
     }
     /*------------------------------------------------------------*/
-        
+    table.third{
+        border-top: 2px solid darkorange;
+    }
+    table.third caption{
+        background-color: lightgreen;
+        border-bottom: 2px solid darkorange;
+    }
+    table.third th{
+        background-color: lightgreen;
+        border-bottom: 2px solid darkorange;
+    }    
