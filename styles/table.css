@@ -40,7 +40,7 @@ html, body {
         border-top: 2px solid darkorange;
         border-bottom: 2px solid darkorange;
     }
-    table.third th, table.third td{
+    table.third th, table.third td, table.third caption{
         padding: 0.7em;
     }
     table.third tr:first-child{
