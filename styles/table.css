@@ -39,7 +39,7 @@ html, body {
         border-collapse: collapse;
         border-bottom: 2px solid orangered;
     }
-    table.third caption{
+    table.third thead caption{
         padding: 0.5em;
         font-weight: bold;
         background-color: lightgreen;
