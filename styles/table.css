@@ -37,12 +37,14 @@ html, body {
     /*------------------------------------------------------------*/
     table.third{
         border-collapse: collapse;
-        border-bottom: 2px solid darkorange;
+        border-bottom: 2px solid orangered;
     }
     table.third th, table.third td, table.third caption{
         padding: 0.7em;
     }
-    table.third tr:first-child{
+    table.third thead tr:first-child{
         background-color: lightgreen;
+        border-top: 2px solid orangered;
+        border-bottom: 2px solid orangered
     }
     
