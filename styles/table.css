@@ -37,7 +37,6 @@ html, body {
     /*------------------------------------------------------------*/
     table.third{
         border-collapse: collapse;
-        border-top: 2px solid darkorange;
         border-bottom: 2px solid darkorange;
     }
     table.third th, table.third td, table.third caption{
@@ -46,7 +45,4 @@ html, body {
     table.third tr:first-child{
         background-color: lightgreen;
     }
-    table.third thead{
-        background-color: lightgreen;
-        border-bottom: 2px solid darkorange;
-    }    
+    
