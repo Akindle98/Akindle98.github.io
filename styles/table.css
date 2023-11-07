@@ -40,13 +40,13 @@ html, body {
         border-bottom: 2px solid orangered;
     }
     table.third caption{
-        padding: 0.7em;
+        padding: 0.5em;
         font-weight: bold;
         background-color: lightgreen;
         border-top: 2px solid orangered;
     }
     table.third th, table.third td{
-        padding: 0.7em;
+        padding: 0.5em;
     }
     table.third th tr:last-child{
         background-color: lightgreen;
