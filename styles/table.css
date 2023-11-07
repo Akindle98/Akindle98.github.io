@@ -43,7 +43,7 @@ html, body {
         background-color: lightgreen;
         border-bottom: 2px solid darkorange;
     }
-    table.third th{
+    table.third thead{
         background-color: lightgreen;
         border-bottom: 2px solid darkorange;
     }    
