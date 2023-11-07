@@ -40,6 +40,9 @@ html, body {
         border-top: 2px solid darkorange;
         border-bottom: 2px solid darkorange;
     }
+    table.third th, table.third td{
+        padding: 0.7em;
+    }
     table.third caption{
         background-color: lightgreen;
         border-bottom: 2px solid darkorange;
