@@ -45,13 +45,11 @@ html, body {
         background-color: lightgreen;
         border-top: 2px solid orangered;
     }
-    table.third thead{
-        background-color: lightgreen !important;
-    }
     table.third th, table.third td{
         padding: 0.5em;
     }
     table.third thead tr:first-child{
+        background-color: lightgreen;
         border-top: 2px solid orangered;
     }
     table.third tbody tr:first-child{
