@@ -46,7 +46,7 @@ html, body {
         border-top: 2px solid orangered;
     }
     table.third thead{
-        background-color: lightgreen;
+        background-color: lightgreen !important;
     }
     table.third th, table.third td{
         padding: 0.5em;
