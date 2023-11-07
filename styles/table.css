@@ -43,9 +43,8 @@ html, body {
     table.third th, table.third td{
         padding: 0.7em;
     }
-    table.third caption{
+    table.third tr:first-child{
         background-color: lightgreen;
-        border-bottom: 2px solid darkorange;
     }
     table.third thead{
         background-color: lightgreen;
