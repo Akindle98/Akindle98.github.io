@@ -95,10 +95,12 @@ article{
 article h2{
     font-size: 1.25em;
     color: darkgoldenrod;
+    text-align: left;
 }
 article p{
     font-size: 1em;
     text-indent: inherit;
+    text-align: left;
 }
 article img{
     margin: auto;
