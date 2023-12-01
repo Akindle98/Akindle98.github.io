@@ -113,7 +113,7 @@ article img{
     display: block;
     background-color: bisque;
 }
-article li a{
+article li{
     display: inline-block;
     color: rgb(75, 58, 5);
     text-align: center;
