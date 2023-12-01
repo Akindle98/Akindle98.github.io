@@ -115,7 +115,7 @@ article li{
     color: rgb(75, 58, 5);
     font-weight: bold;
     text-align: center;
-    margin-right: 10px;
+    margin-right: 0;
 }
 footer{
     border-top: 2px solid black;
