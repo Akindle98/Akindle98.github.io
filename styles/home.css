@@ -87,6 +87,7 @@ section a{
 article{
     column-count: 1;
     column-width: auto;
+    text-align: center;
 }
 article h1{
     text-align: center;
