@@ -110,8 +110,9 @@ article img{
     display: block;
     background-color: bisque;
 }
-article ul{
+article li{
     display: inline-block;
+    color: ;
 }
 footer{
     border-top: 2px solid black;
