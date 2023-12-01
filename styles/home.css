@@ -91,7 +91,7 @@ article h1{
     padding: 1em;
 }
 article p, h2{
-
+    margin: 5em;
 }
 article h2{
     font-size: 1.25em;
