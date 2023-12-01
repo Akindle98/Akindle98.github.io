@@ -112,6 +112,9 @@ article img{
     display: block;
     background-color: bisque;
 }
+article ul{
+    list-style: none;
+}
 article li{
     float: left;
 }
