@@ -112,8 +112,10 @@ article img{
 }
 article li{
     display: inline-block;
-    color: rgb(75, 58, 5)58);
+    color: rgb(75, 58, 5);
     font-weight: bold;
+    text-align: center;
+    margin-right: 10px;
 }
 footer{
     border-top: 2px solid black;
