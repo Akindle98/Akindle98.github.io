@@ -92,6 +92,9 @@ article{
     padding:0 1em;
     margin:15px auto;
 }
+article p, h2, ul{
+    margin: 0, 3em, 0;
+}
 article h2{
     font-size: 1.25em;
     color: darkgoldenrod;
