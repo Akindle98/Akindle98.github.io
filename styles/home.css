@@ -84,6 +84,10 @@ section a{
 .menu a:hover, a.current{
     text-decoration: underline;
 }
+article{
+    column-count: 1;
+    column-width: auto;
+}
 article h1{
     text-align: center;
     color: #333;
