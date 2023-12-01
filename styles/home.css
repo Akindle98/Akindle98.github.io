@@ -104,6 +104,7 @@ article img{
     display: block;
     width: 100%;
     max-width:1088px;
+    background-color: bisque;
 }
 footer{
     border-top: 2px solid #f46b45;
