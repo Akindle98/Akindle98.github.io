@@ -111,9 +111,6 @@ article img{
 article ul{
     list-style: none;
 }
-article li{
-    float: left;
-}
 article li a{
     display: inline-block;
     color: rgb(75, 58, 5);
