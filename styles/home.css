@@ -110,6 +110,9 @@ article img{
     display: block;
     background-color: bisque;
 }
+article ul{
+    display: inline-block;
+}
 footer{
     border-top: 2px solid black;
     text-align: center;
