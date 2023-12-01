@@ -90,9 +90,11 @@ article h1{
 }
 article{
     padding:0 1em;
+    margin:15px auto;
 }
 article h2{
     font-size: 1.25em;
+    color: darkgoldenrod;
 }
 article p{
     font-size: 1em;
