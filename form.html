@@ -45,6 +45,7 @@
                 title="Must be 999-999-999 format"
                 autocomplete="on"><br>
         </fieldset>
+        <fieldset>
             <legend>Membership Information</legend>
             <label for="membership_type">Membership Type: </label>
             <select name="membership_type" id="membership_type" size="1">
@@ -56,6 +57,21 @@
             <input type="date" name="starting_date" id="starting_date" required><br>
             <label for="tickets">Tickets for Guests: </label>
             <input type="number" name="tickets" id="tickets" value="2" min="1" max="2" placeholder="from 1 to 4"><br>
+        </fieldset>
+        <fieldset>
+            <legend>How Did You Hear About Us?</legend>
+            <input type="checkbox" name="option1" id="option1" value="search_engine">
+            <label for="option1">Search Engine</label><br>
+            <input type="checkbox" name="option2" id="option2" value="social_media">
+            <label for="option2">Social Media</label><br>
+            <input type="checkbox" name="option3" id="option3" value="email">
+            <label for="option3">Email</label><br>
+            <input type="checkbox" name="option4" id="option4" value="friend_or_colleague">
+            <label for="option4">Friend or Colleague</label><br>
+        </fieldset>
+        <fieldset>
+            <legend>Comments</legend>
+            <input
         </fieldset>
     </form>
 </body>
